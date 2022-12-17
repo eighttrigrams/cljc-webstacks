@@ -17,6 +17,10 @@ In part this was created, amongst other things, to understand a luminus starter 
 Apart from that, I took the approach of `fullstack-clj` a step further insofar as
 now authorization also gets done over the now single endpoint.
 
+### Stack
+
+- Mount
+
 ## reagent-react18-mount
 
 ### Stack
