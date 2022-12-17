@@ -10,7 +10,7 @@
 
 ## Getting started
 
-```
+```bash
 $1 clj -M -m server
 $2 npx shadow-cljs watch app
 ```
@@ -40,7 +40,7 @@ Refresh the page.
 
 The REPL output should be:
 
-```
+```clojure
 [:resources :down]
 [:resources :up]
 [:resources 2]
@@ -50,3 +50,19 @@ The REPL output should be:
 
 - Jack-in
     - deps.edn
+        - Profile: :dev
+
+### Package and run
+
+```bash
+$ npx shadow-cljs release app
+$ clj -M -m uberdeps.uberjar --target server.jar
+$ java -cp server.jar clojure.main -m server
+visit localhost:3000
+```
+
+### Clean
+
+```bash
+$ rm -rf resources/public/js/*
+```
