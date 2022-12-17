@@ -17,11 +17,6 @@ In part this was created, amongst other things, to understand a luminus starter 
 Apart from that, I took the approach of `fullstack-clj` a step further insofar as
 now authorization also gets done over the now single endpoint.
 
-## fullstack-cljc-defn-over-http
-
-The same as fullstack-clj, but this time using [defn-over-http](https://github.com/eighttrigrams/defn-over-http)
-to mediate the communication between frontend and backend. Here it handles authorization as well as resource queries.
-
 ## reagent-react18-mount
 
 ### Stack
@@ -31,3 +26,8 @@ to mediate the communication between frontend and backend. Here it handles autho
 - Shadow CLJS
 - Reagent (with React 18)
 - Mount
+
+## fullstack-cljc-defn-over-http
+
+The same as fullstack-clj, but this time using [defn-over-http](https://github.com/eighttrigrams/defn-over-http)
+to mediate the communication between frontend and backend. Here it handles authorization as well as resource queries.
