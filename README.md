@@ -1,5 +1,10 @@
 # cljc-webstacks
 
+See also:
+
+- [cljc-protos](https://github.com/eighttrigrams/cljc-protos)
+- [cljc-minimals](https://github.com/eighttrigrams/cljc-minimals)
+
 ## fullstack-cljc
 
 Another web application. The main theme of the backend is a layered data-driven architecture. The latter is implemented in terms of a single API endpoint and then a dispatch mechanism based on the data structure supplied via the request body. 
