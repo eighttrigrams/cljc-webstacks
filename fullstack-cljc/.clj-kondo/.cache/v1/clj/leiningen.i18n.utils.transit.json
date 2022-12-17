@@ -1,0 +1,1 @@
+["^ ","~$replace-first-in-multiline",["^ ","~:row",5,"~:col",1,"~:fixed-arities",["~#set",[3]],"~:name","^0","~:ns","~$leiningen.i18n.utils","~:top-ns","^7"],"~:filename","/home/daniel/.m2/repository/puppetlabs/i18n/0.8.0/i18n-0.8.0.jar:leiningen/i18n/utils.clj"]

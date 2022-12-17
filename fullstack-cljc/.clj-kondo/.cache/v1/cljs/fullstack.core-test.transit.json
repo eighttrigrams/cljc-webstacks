@@ -1,0 +1,1 @@
+["^ ","~$multiply-test",["^ ","~:row",6,"~:col",1,"~:fixed-arities",["~#set",[0]],"~:name","^0","~:ns","~$fullstack.core-test","~:top-ns","^7"],"~$multiply-test-2",["^ ","^1",9,"^2",1,"^3",["^4",[0]],"^5","^9","^6","^7","^8","^7"],"~:filename","/mnt/cc1f5ded-c6fb-44ed-aadb-e4e5c1c58308/Workspace/eighttrigrams/cljc-protos/fullstack-clj/test/cljs/fullstack/core_test.cljs"]
