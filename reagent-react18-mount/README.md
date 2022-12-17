@@ -1,12 +1,4 @@
-# Nice webstack
-
-## Stack
-
-- Ring
-- Compojure
-- Shadow CLJS
-- Reagent (with React 18)
-- Mount
+# reagent-react18-mount
 
 ## Getting started
 
