@@ -31,3 +31,8 @@ now authorization also gets done over the now single endpoint.
 
 The same as fullstack-clj, but this time using [defn-over-http](https://github.com/eighttrigrams/defn-over-http)
 to mediate the communication between frontend and backend. Here it handles authorization as well as resource queries.
+
+### Stack
+
+- Figwheel
+
