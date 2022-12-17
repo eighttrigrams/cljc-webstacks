@@ -19,7 +19,7 @@ to mediate the communication between frontend and backend. Here it handles autho
 
 ## reagent-react18-mount
 
-## Stack
+### Stack
 
 - Ring
 - Compojure
