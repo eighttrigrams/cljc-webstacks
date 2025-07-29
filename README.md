@@ -1,6 +1,6 @@
 # cljc-webstacks
 
-See also:
+See also
 
 - [cljc-protos](https://github.com/eighttrigrams/cljc-protos)
 - [cljc-minimals](https://github.com/eighttrigrams/cljc-minimals)
